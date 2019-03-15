@@ -30,7 +30,8 @@
     <section id="about-slide" class="slide">
       <h1>💻 🐕 🍪 🎮 🎃 🗺 🎧 🏖 🎨 🥐 🦇</h1>
       <p>
-        I’m a curious and creative visual engineer and problem solver, always looking to build things that look better and think smarter!
+        I’m a curious and creative visual engineer and problem solver,
+        always looking to build things that look better and think smarter.
       </p>
       <p>
         Currently working for <a class="underline" href="https://verbalplusvisual.com/" title="Verbal + Visual" target="_blank">Verbal + Visual</a> as a Full Stack Developer, crafting considered e-commerce experiences for thoughtful brands.
@@ -50,7 +51,9 @@
           </h2>
           <p id="work-grid-card-0-desc"
             class="grid-card-desc">
-            Migrated from Magento to Shopify+, rebuilt and optimzed frontend experience, simplified admin process
+            Migrated from Magento to Shopify+,
+            rebuilt and optimzed frontend experience,
+            simplified admin process
           </p>
         </div>
         <div id="work-grid-card-1" class="grid-card">
@@ -64,7 +67,8 @@
           </h2>
           <p id="work-grid-card-1-desc"
             class="grid-card-desc">
-            Redesigned website and CMS structure, combining 2 brands under one Shopify+ ecosystem
+            Redesigned website and CMS structure,
+            combining 2 brands under one Shopify+ ecosystem
           </p>
         </div>
       </div>
